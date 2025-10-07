@@ -344,7 +344,7 @@ export default function Home() {
 
   return (
     <main className="p-6 mx-auto max-w-3xl">
-      <h1 className="text-3xl font-bold mb-4">Medical Coding Tool</h1>
+      <h1 className="text-3xl font-bold mb-4">Amulya Goli's Personal Medical Coding Tool</h1>
       {/* ICD Search */}
       <section className="mb-8">
         <h2 className="text-xl font-semibold mb-2">ICD‑10‑CM Search</h2>
